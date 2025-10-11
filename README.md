@@ -1,13 +1,5 @@
 # Loctation
 
-**Languages**: [English](README.md) 
-
-## 📥 Download
-
-**[Download here](https://github.com/RoversX/LaunchNext/releases/latest)** - Get the latest release
-
-⭐ Consider starring [LaunchNext](https://github.com/RoversX/LaunchNext) and especially [LaunchNow](https://github.com/ggkevinnnn/LaunchNow)!
-
 | | |
 |:---:|:---:|
 | ![](./public/banner.webp) | ![](./public/setting1.webp) |
