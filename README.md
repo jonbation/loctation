@@ -1,11 +1,6 @@
 # Loctation
 
-| | |
-|:---:|:---:|
-| ![](./public/banner.webp) | ![](./public/setting1.webp) |
-| ![](./public/setting2.webp) | ![](./public/setting3.webp) |
-
-MacOS Tahoe removed launchpad,and it's so hard to use, it's doesn't use your Bio GPU, please apple, at least give people an option to switch back. Before that, here is LaunchNext
+Loctation removed launchpad,and it's so hard to use, it's doesn't use your Bio GPU, please apple, at least give people an option to switch back. Before that, here is LaunchNext
 
 *Huge thanks to the original project! I hope this enhanced version can be merged back to the original repository*
 
@@ -22,17 +17,6 @@ sudo xattr -r -d com.apple.quarantine /Applications/LaunchNext.app
 - ✅ **Classic Launchpad experience** - works exactly like the beloved original interface
 - ✅ **Multi-language support** - full internationalization with English, Chinese, Japanese, French, Spanish, German, and Russian
 - ✅ **Hide icon labels** - clean, minimalist view when you don't need app names
-- ✅ **Custom icon sizes** - adjust icon dimensions to fit your preferences
-- ✅ **Smart folder management** - create and organize folders just like before
-- ✅ **Instant search and keyboard navigation** - find apps quickly
-
-### What We Lost in macOS Tahoe
-- ❌ No custom app organization
-- ❌ No user-created folders
-- ❌ No drag-and-drop customization
-- ❌ No visual app management
-- ❌ Forced categorical grouping
-
 
 ### Data Storage
 Application data is safely stored in:
@@ -69,7 +53,7 @@ Reads directly from the system Launchpad database:
 3. **Build and run**
    - Select your target device
    - Press `⌘+R` to build and run
-   - Or `⌘+B` to build only
+   - Or `⌘+B` to build onl
 
 ### Command Line Build
 
@@ -118,5 +102,3 @@ xcodebuild -project LaunchNext.xcodeproj -scheme LaunchNext -configuration Relea
 - Automatic screen detection
 - Per-display positioning
 - Seamless multi-monitor workflows
-
-## Troubl
